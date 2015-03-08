@@ -1,5 +1,4 @@
 # exploratory data analysis class from coursera
-# 2015-02-07
 # W. Feng
 
 orig_path <- getwd()
